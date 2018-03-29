@@ -87,8 +87,6 @@ sponsors:
     level: gold
   - id: slalom
     level: gold
-  - id: signalfx
-    level: gold
   - id: influxdata
     level: gold
   - id: pagerduty
@@ -111,11 +109,21 @@ sponsors:
     level: gold
   - id: portworx
     level: gold
-  - id: dell
+  - id: dellemc
     level: gold
   - id: launch-darkly
     level: gold
   - id: getty-images
+    level: gold
+  - id: victorops
+    level: gold
+  - id: tasktop
+    level: gold
+  - id: jfrog
+    level: gold
+  - id: elastic
+    level: gold
+  - id: dynatrace
     level: gold
   - id: techtown
     level: silver
@@ -123,6 +131,12 @@ sponsors:
     level: silver
   - id: contrast_security
     level: silver
+  - id: cloudbees
+    level: silver
+  - id: realself
+    level: bronze
+  - id: codefresh
+    level: bronze
 #  - id: samplesponsorname
 #    level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
@@ -203,7 +217,7 @@ program:
     start_time: "13:00"
     end_time: "13:30"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2018-04-24
     start_time: "13:30"
     end_time: "14:00"
@@ -227,8 +241,8 @@ program:
     date: 2018-04-24
     start_time: "15:30"
     end_time: "16:10"
-  - title: "Tech Session TBA"
-    type: custom
+  - title: "michael-ducy"
+    type: workshop
     date: 2018-04-24
     start_time: "15:30"
     end_time: "16:00"
@@ -237,8 +251,8 @@ program:
     date: 2018-04-24
     start_time: "16:20"
     end_time: "16:50"
-  - title: "Tech Session TBA"
-    type: custom
+  - title: "doug-ireton"
+    type: workshop
     date: 2018-04-24
     start_time: "16:20"
     end_time: "16:50"
@@ -308,7 +322,7 @@ program:
     start_time: "13:00"
     end_time: "13:30"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2018-04-25
     start_time: "13:30"
     end_time: "14:00"
@@ -352,3 +366,20 @@ program:
     date: 2018-04-25
     start_time: "17:00"
     end_time: "17:15"
+ignites:
+  - title: "aaron-aldrich"
+    date: 2018-04-24
+  - title: "ravi-kalaga"
+    date: 2018-04-24
+  - title: "dawn-parzych"
+    date: 2018-04-24
+  - title: "steven-lattin"
+    date: 2018-04-24
+  - title: "donnell-baker"
+    date: 2018-04-25
+  - title: "ed-anderson"
+    date: 2018-04-25
+  - title: "david-awad"
+    date: 2018-04-25
+  - title: "sarah-shewell"
+    date: 2018-04-25

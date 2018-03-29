@@ -35,7 +35,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: registration
   - name: program
-#  - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -88,7 +88,7 @@ sponsors:
     level: gold
   - id: microsoft
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20180316
     level: gold
   - id: workiva
     level: gold
@@ -102,6 +102,8 @@ sponsors:
     level: silver 
   - id: contrast_security 
     level: silver 
+  - id: columntech
+    level: silver
   - id: beaconhill
     level: bronze
   - id: qci
@@ -120,10 +122,16 @@ sponsors:
     level: bronze
   - id: mumosystems
     level: bronze
+  - id: intl-fcstone
+    level: bronze
+  - id: meredith
+    level: bronze
   - id: sourceallies
     level: uranium
   - id: sidegarage
     level: community
+  - id: datadog
+    level: brass
       
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -135,11 +143,15 @@ sponsor_levels:
     max: 6
   - id: silver
     label: Silver
-    max: 2 # This is the same as omitting the max limit.
+    max: 2
   - id: bronze
     label: Bronze
+    max: 10
   - id: uranium
     label: Uranium
+    max: 1
+  - id: brass
+    label: Bag and Lanyard
     max: 1
   - id: community
     label: Community
@@ -155,8 +167,8 @@ program:
     date: "2018-04-12"
     start_time: "9:00"
     end_time: "9:15"
-  - title: "kelsey-hightower"
-    type: talk
+  - title: "Keynote - Andrew Clay Shafer"
+    type: custom
     date: "2018-04-12"
     start_time: "9:15"
     end_time: "10:00"
@@ -200,7 +212,7 @@ program:
     date: "2018-04-12"
     start_time: "11:25"
     end_time: "11:55"
-  - title: "bryce-hemme"
+  - title: "mike-douglas"
     type: talk
     date: "2018-04-12"
     start_time: "11:25"
@@ -225,8 +237,8 @@ program:
     date: "2018-04-12"
     start_time: "13:35"
     end_time: "14:05"
-  - title: "TBD - Track 1"
-    type: custom
+  - title: "bryce-hemme"
+    type: talk
     date: "2018-04-12"
     start_time: "14:10"
     end_time: "14:40"
@@ -346,12 +358,12 @@ program:
     date: "2018-04-13"
     start_time: "14:10"
     end_time: "14:40"
-  - title: "logan-daigle"
-    type: talk
+  - title: "TBD"
+    type: custom
     date: "2018-04-13"
     start_time: "14:10"
     end_time: "14:40"
-  - title: "matt-ring-john-van-rokel"
+  - title: "matt-ring-john-van-roekel"
     type: talk
     date: "2018-04-13"
     start_time: "14:10"

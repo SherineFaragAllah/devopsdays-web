@@ -1,8 +1,8 @@
 +++
 Title = "Bob Ready"
 Twitter = ""
-image = ""
 type = "speaker"
+image = "bob-ready.jpg"
 linktitle = "bob-ready"
 
 +++

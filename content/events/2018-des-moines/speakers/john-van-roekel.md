@@ -1,7 +1,7 @@
 +++
 Title = "John Van Roekel"
 Twitter = ""
-image = ""
+image = "john-van-roekel.jpg"
 type = "speaker"
 linktitle = "john-van-roekel"
 

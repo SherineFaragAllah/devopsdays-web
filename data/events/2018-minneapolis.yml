@@ -34,7 +34,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: registration
  # - name: program
-  - name: speakers
+#  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -107,6 +107,16 @@ sponsors:
   - id: scalyr
     level: gold
   - id: launch-darkly
+    level: silver
+  - id: instana
+    level: silver
+  - id: pivotal
+    level: gold
+  - id: mesosphere
+    level: silver
+  - id: arista
+    level: silver
+  - id: bigswitchnetworks
     level: silver
 
 sponsors_accepted : "yes"

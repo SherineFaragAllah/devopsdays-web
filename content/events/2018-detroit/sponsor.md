@@ -5,6 +5,7 @@ type = "event"
 
 
 +++
+We greatly value sponsors for this open event. See a <a href="/events/2018-detroit/DevOpsDaysDetroit-Prospectus-2018.pdf">PDF of our prospectus</a> for all sponsorship opportunities, or see below.
 <style>
 </style>
 <hr>
@@ -109,7 +110,7 @@ General inquiries and sponorships:  [{{< email_organizers >}}]
     <td>
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
         <input type="hidden" name="cmd" value="_s-xclick">
-        <input type="hidden" name="hosted_button_id" value="T2NPRJFZ7D2BJ">
+        <input type="hidden" name="hosted_button_id" value="2Q4P4J35E93A6">
         <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
         <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
         </form>
@@ -145,7 +146,7 @@ General inquiries and sponorships:  [{{< email_organizers >}}]
   <tr>
     <td></td>
     <td style="text-align: right; color: #bbb;" colspan=3>
-        Note: These options may be purchased in addition to, or in lieu of, the bronze, silver, gold and platinum selections.<br/>We are willing to work with your company, if you have any ideas just ask! <a href="mailto:organizers-detroit-2018@devopsdays.org?subject=DevOpsDays%20Detroit%202018%20Sponsorship">Email us</a>
+        Note: These options may be purchased in addition to, or in lieu of, the bronze, silver and gold selections.<br/>We are willing to work with your company, if you have any ideas just ask! <a href="mailto:organizers-detroit-2018@devopsdays.org?subject=DevOpsDays%20Detroit%202018%20Sponsorship">Email us</a>
   </tr>
 </table>
 <span style="font-style: italic"></span>
